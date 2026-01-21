@@ -1,0 +1,17 @@
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\obj\Debug\net9.0\HospitalManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\obj\Debug\net9.0\HospitalManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\obj\Debug\net9.0\HospitalManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\obj\Debug\net9.0\HospitalManagementSystem.Infrastructure.AssemblyInfo.cs
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\obj\Debug\net9.0\HospitalManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\bin\Debug\net9.0\HospitalManagementSystem.Infrastructure.deps.json
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\bin\Debug\net9.0\HospitalManagementSystem.Infrastructure.dll
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\bin\Debug\net9.0\HospitalManagementSystem.Infrastructure.pdb
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\bin\Debug\net9.0\HospitalManagementSystem.Application.dll
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\bin\Debug\net9.0\HospitalManagementSystem.Domain.dll
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\bin\Debug\net9.0\HospitalManagementSystem.Domain.pdb
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\bin\Debug\net9.0\HospitalManagementSystem.Application.pdb
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\obj\Debug\net9.0\Hospital.53A94FB9.Up2Date
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\obj\Debug\net9.0\HospitalManagementSystem.Infrastructure.dll
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\obj\Debug\net9.0\refint\HospitalManagementSystem.Infrastructure.dll
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\obj\Debug\net9.0\HospitalManagementSystem.Infrastructure.pdb
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Infrastructure\obj\Debug\net9.0\ref\HospitalManagementSystem.Infrastructure.dll

@@ -1,0 +1,15 @@
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\bin\Debug\net9.0\HospitalManagementSystem.Application.deps.json
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\bin\Debug\net9.0\HospitalManagementSystem.Application.dll
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\bin\Debug\net9.0\HospitalManagementSystem.Application.pdb
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\bin\Debug\net9.0\HospitalManagementSystem.Domain.dll
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\bin\Debug\net9.0\HospitalManagementSystem.Domain.pdb
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.csproj.AssemblyReference.cache
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.AssemblyInfoInputs.cache
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.AssemblyInfo.cs
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\obj\Debug\net9.0\Hospital.BFFAC5B8.Up2Date
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.dll
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\obj\Debug\net9.0\refint\HospitalManagementSystem.Application.dll
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.pdb
+D:\Project\HospitalManagementSystem\src\HospitalManagementSystem.Application\obj\Debug\net9.0\ref\HospitalManagementSystem.Application.dll
